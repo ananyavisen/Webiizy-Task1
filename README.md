@@ -14,3 +14,9 @@ A static HTML/CSS/JavaScript recreation based on the three supplied screenshots.
 
 ## Fidelity note
 The supplied screenshots are the visual reference. This is a careful first-pass recreation, not Dropbox's original source code. The hero document illustration and integration marks are approximations built from HTML/CSS/SVG; exact source artwork and the original Dropbox typeface would be needed for a true pixel-perfect match. The target screenshots are approximately 1900px wide.
+
+<img width="1901" height="867" alt="image" src="https://github.com/user-attachments/assets/0f62d097-fbbf-4039-b2dc-4730e72fe3bb" />
+<img width="1896" height="872" alt="image" src="https://github.com/user-attachments/assets/440cf786-b646-4003-a266-f01270edae79" />
+<img width="1887" height="865" alt="image" src="https://github.com/user-attachments/assets/96d05104-762b-40be-8365-e0e667adaeff" />
+
+
